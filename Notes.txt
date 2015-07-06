@@ -1,8 +1,8 @@
-Q. What is a Computer?
-A. A computer is a programmable electronic machine that stores and retrieves data and performs high-speed logical and mathematical operations.
+PT. What is a Computer?
+PC. A computer is a programmable electronic machine that stores and retrieves data and performs high-speed logical and mathematical operations.
 
-Q. Areas of application of computers?
-A. The areas of application of computers is gradually increasing with rapidity. The major areas of application of computers may be highlighted in this way:
+PT. Areas of application of computers?
+PC. The areas of application of computers is gradually increasing with rapidity. The major areas of application of computers may be highlighted in this way:
 (a) In Engineering and Scientific Research
 (b) In Data Processing
 (c) In Commercial and Financial Applications
@@ -15,3 +15,76 @@ A. The areas of application of computers is gradually increasing with rapidity. 
 (j) In Information and Communication System
 (k) In Robotics and Remote Sensing
 (l) In Weather Forecasting
+
+PT. History of Computers
+PC. 
+
+PT. What is a Computer Hardware
+PC.
+
+PT. What is a Computer Program?
+PC. 
+
+PT. What is a Computer Software?
+PC. 
+
+PT. What is a System Software?
+PC.
+
+PT. What is a Application Software?
+PC. 
+
+PT. What are the different generations of Computer?
+PC.
+
+PT. What is a first generation computer?
+PC. 
+
+PT. What is a second generation computer?
+PC. 
+
+PT. What is a third generation computer?
+PC. 
+
+PT. What is a fourth generation computer?
+PC. 
+
+PT. What is a fifth generation computer?
+PC.
+
+PT. Compare different computer generations with their advantages and disadvantages.
+PC. 
+
+PT. How to classify a computer?
+PC.
+
+PT. What is a General purpose computer?
+PC.
+
+PT. What is a Special purpose computer?
+PC. 
+
+PT. What is an Analog Computer?
+PC. 
+
+PT. What is a Digital Computer?
+PC.
+
+PT. What is an Assembler?
+PC. 
+
+PT. What is an Interpreter?
+PC.
+
+PT. What is a Compiler?
+PC. 
+
+PT. What is a Simulator?
+PC. 
+
+PT. What is a Emulator?
+PC. 
+
+PT. What is a Hybrid Computer?
+PC.
+
