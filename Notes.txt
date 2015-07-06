@@ -1,2 +1,17 @@
 Q. What is a Computer?
 A. A computer is a programmable electronic machine that stores and retrieves data and performs high-speed logical and mathematical operations.
+
+Q. Areas of application of computers?
+A. The areas of application of computers is gradually increasing with rapidity. The major areas of application of computers may be highlighted in this way:
+(a) In Engineering and Scientific Research
+(b) In Data Processing
+(c) In Commercial and Financial Applications
+(d) In Office Automation
+(e) In Drawing , Design and Manufacturing
+(f) In Publishing Work
+(g) In Process Control Application
+(h) In Graphics
+(i) In teaching Aids
+(j) In Information and Communication System
+(k) In Robotics and Remote Sensing
+(l) In Weather Forecasting
