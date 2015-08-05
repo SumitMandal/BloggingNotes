@@ -88,3 +88,25 @@ PC.
 PT. What is a Hybrid Computer?
 PC.
 
+PT. What is a Supercomputer?
+PC. 
+
+PT. What is a Mainframe computer?
+PC.
+
+PT. What is a Minicomputer?
+PC. 
+
+PT. What is Microcomputer?
+PC. 
+
+PT. What is Desktop computer?
+PC.
+
+PT. Binary Number System
+PC. 
+
+PT. Decimal to Binary Conversion
+PC. A Decimal number can be converted into its equivalent binary form by expressing the decimal number as the sum of the ascending powers of 2 and collecting the co-efficients of all the terms.
+
+ 
